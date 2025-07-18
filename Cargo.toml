@@ -1,7 +1,7 @@
 [package]
 name = "frand"
-version = "0.10.1"
-edition = "2021"
+version = "0.11.0"
+edition = "2024"
 authors = ["EngusMaze"]
 description = "Blazingly fast random number generation library"
 tags = ["rng", "random", "no_std"]

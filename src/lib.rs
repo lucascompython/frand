@@ -43,8 +43,8 @@
 
 use core::{mem::transmute, ops::Range};
 
-mod gen;
-pub use gen::*;
+mod random;
+pub use random::*;
 
 #[cfg(feature = "std")]
 mod thread;
